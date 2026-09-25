@@ -2,6 +2,3 @@ site_name: MTE Capstone 12 - F26_W27
 
 theme:
   name: material
-
-nav:
-  - Log: log.md
