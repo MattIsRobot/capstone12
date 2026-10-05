@@ -1,5 +1,10 @@
 # Log
 
+## Project Selection Meeting
+*Sept 28, 2026: Matt, Tim, Jaden, Winters, Yarema*
+
+The team met outside to decide upon if the team wanted to go for the drone mesh network problem or the walker lifting problem.  The meeting took place by Matt's car where group members tried to lift the heavier and more featureful walker into the car.  The walker project was selected because of how hard it was for the group to load the walker into the car, verifying that this was a real problem.  The Yeun award for healthy aging was also identified as a possible $10k award for the team to work towards by doing this project.
+
 ## Log site set-up
 *Sept 25, 2026*: *Matt, Tim*
 
