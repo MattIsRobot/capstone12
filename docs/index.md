@@ -1,5 +1,10 @@
 # Log
 
+## PDP presentation working session
+*Oct 5, 2026: Matt, Tim, Jaden, Winters, Yarema*
+
+The team began work on the PDP presentation. The objectives, constraints, and criteria were clarified. A morphological box was made. Research was done on past designs and solutions. The design matrix was created to rank our criteria. A Gantt chart was created to create a rough timeline for our project.
+
 ## Project Selection Meeting
 *Sept 28, 2026: Matt, Tim, Jaden, Winters, Yarema*
 
