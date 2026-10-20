@@ -1,5 +1,12 @@
 # Log
 
+## PDP Finalization and Award Application
+*Oct 18, 2026: Matt, Tim, Jaden, Winters, Yarema*
+
+The team solidified plans for the PDP presentation and submitted the slides. The presentation was broken up into sections for each team member to present and each member prepared talking points for their slides. Yarema on the background information, problem statement, and objectives/criteria. Matt on the morphological box and first two alternate ideas. Jaden on two other alternate ideas. Tim on the criteria ranking and decision matrix. Winters on the patent search and project timeline.
+
+Alongside the presentation the team applied for the *Yuen Family Foundation Awards for Healthy Aging*.
+
 ## PDP presentation working session
 *Oct 5, 2026: Matt, Tim, Jaden, Winters, Yarema*
 
