@@ -1,5 +1,16 @@
 # Log
 
+
+## Detailed Design Delegation Meeting
+*Oct 26, 2026: Matt, Tim, Jaden, Winters, Yarema*
+
+Met to break up components of the detailed design among the team members. Matt is asigned the rail and mounting components to attach the system to the seat. Winters is assigned the carriage including the pivot and twist axis. Jaden is assigned the gripper/attachment to the walker. Yarema is assigned to ideate on the assisted control system. Tim is to plan the additional safety sensors and controls needed for the system.
+
+## PDM Setup
+*Oct 22, 2026: Matt*
+
+Matt configured a home server running EasyPDM to simplify sharing mechanical files within the team. EasyPDM was selected after much trial and error with other self-hosted PLM packages.
+
 ## PDP Finalization and Award Application
 *Oct 18, 2026: Matt, Tim, Jaden, Winters, Yarema*
 
