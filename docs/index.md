@@ -1,5 +1,21 @@
 # Log
 
+## Detail Deisgn
+*Nov 2, 2026: Matt, ...*
+
+Matt designed the initial rail system to attach to the seats in CAD.
+![alt text](initial_rail_system.png)
+
+
+## Car Measurement
+*Oct 28, 2026: Matt, Tim, Jaden*
+
+Matt, Tim, and Jaden met to measure the Camry's rear seat and rear door.  Matt created a reference CAD file of the door and seat for the Solidworks design.  Jaden, Tim, and Matt all discussed aspects of the design including:
+* The pivot joint of the system needing to be outside the car door and the required length of the carriage to achieve that
+* The gripper mechanism and how it would work with teh rollator walker
+    * The previously considered ratchet strap/zip tie mechanism was discarded in favour of a parallel gripper (vice) because of limited space around the rollator frame
+* The necessity of the twist axis
+    * Ultimately the twist axis was deemed useful so the force of the walker rolling could be actively controlled and supported.
 
 ## Detailed Design Delegation Meeting
 *Oct 26, 2026: Matt, Tim, Jaden, Winters, Yarema*
